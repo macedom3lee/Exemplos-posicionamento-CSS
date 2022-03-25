@@ -1,0 +1,52 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+
+div.container{
+    height: 600px;
+    width: 600px;
+    background-color: blue;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    
+} 
+
+div.box1{
+    height: 500px;
+    width: 500px;
+    background-color: red;   
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+div.box2{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    position: absolute;
+    top: 105px;
+    left: 105px;
+     
+}
+
+div.box3{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+
+}
+div.box4{
+        height: 200px;
+        width: 200px;
+        background-color: yellow;
+        position: absolute;
+        top: 200px;
+        left: 200px;
+
